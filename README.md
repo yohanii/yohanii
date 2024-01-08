@@ -8,7 +8,9 @@ Email.   **dygks924@gmail.com**
 
 ### **Channel.**
 
-[GitHub.](https://github.com/yohanii) [Notion Link.](https://www.notion.so/0ec1b9ae63414eff89719a83fbf1098f?pvs=21) [LinkedIn.](https://www.linkedin.com/in/yohanii/)
+- [GitHub.](https://github.com/yohanii)
+- [Notion Link.](https://www.notion.so/0ec1b9ae63414eff89719a83fbf1098f?pvs=21)
+- [LinkedIn.](https://www.linkedin.com/in/yohanii/)
 
 ---
 
@@ -23,7 +25,7 @@ Email.   **dygks924@gmail.com**
 
 # Skill.
 
-- Back-End : Java, Spring, Spring Boot
+- Back-End : Java, Spring, Spring Boot, JPA
 - Data : MySQL
 
 ---
