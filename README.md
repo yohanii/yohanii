@@ -8,9 +8,11 @@ Email.   **dygks924@gmail.com**
 
 ### **Channel.**
 
-GitHub. [https://github.com/yohani](https://github.com/yohanii)i
+[GitHub.](https://github.com/yohanii)
 
-Notion Link : [https://fixed-ragdoll-210.notion.site/0ec1b9ae63414eff89719a83fbf1098f?pvs=4](https://www.notion.so/0ec1b9ae63414eff89719a83fbf1098f?pvs=21)
+[Notion Link.](https://www.notion.so/0ec1b9ae63414eff89719a83fbf1098f?pvs=21)
+
+[LinkedIn.](https://www.linkedin.com/in/yohanii/)
 
 ---
 
@@ -26,12 +28,12 @@ Notion Link : [https://fixed-ragdoll-210.notion.site/0ec1b9ae63414eff89719a83fbf
 # Skill.
 
 - Back-End : Java, Spring, Spring Boot
-- Data : SQL
+- Data : MySQL
 
 ---
 
 # Education.
 
-2016.03 ~ 2024.02 포항공과대학교 컴퓨터공학과 (24년 2월 졸업 예정)
+2016.03 ~ 2024.02 포항공과대학교 컴퓨터공학과 졸업
 
 2013.03 ~ 2016.02 대구과학영재학교 졸업
