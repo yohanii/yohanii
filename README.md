@@ -1,6 +1,6 @@
 # 김요한 | 백엔드 개발자
 
-기본에 충실한 신입 개발자, 김요한입니다.
+오만가지 상황을 대비하며 꼼꼼함으로 승부하는 신입 백엔드 개발자 김요한입니다.
 
 ### **Contact.**
 
@@ -16,17 +16,39 @@ Email.   **dygks924@gmail.com**
 
 # **Introduce.**
 
-- 제가 선호하는 일보다 회사와 팀에 도움이 되는 일이 더 중요하다고 생각하여, 인턴 중 코드 리뷰와 문서화를 적극적으로 하였고, 회의 기록을 도맡아 했습니다.
-- TDD, OOP, Clean Code를 고려해서 구현하고자 노력 중입니다.
-- 인턴을 경험하며, 질문 방법과 좋은 커뮤니케이션에 대해 많이 고민했었습니다.
-- 독학으로 공부하며 JAVA 언어와 Spring Framework를 잘 이해하고 적절히 활용하고자 합니다.
+- **혼자서 서비스의 A-Z**까지 만들어본 경험이 있습니다. 
+**ERD 설계**부터 **아키텍처 설계, 구현, AWS환경에서 배포**까지 진행하였고, **리팩토링**을 통해 개선했습니다.
+- 깃허브, 블로그 활동을 통해 **꾸준함**을 증명할 수 있습니다.
+- **팀의 성장이 곧 개인의 성장**이라 믿으며, 함께 성장하기 위해 고민합니다.
 
 ---
 
 # Skill.
 
-- Back-End : Java, Spring, Spring Boot, JPA
-- Data : MySQL
+- Java, Spring Boot, JPA
+- MySQL
+- Docker
+
+---
+
+## **대외활동**
+
+### **카카오테크 부트캠프**
+
+풀스택 과정 1기 24.07 ~
+
+- 프론트엔드, 백엔드, 클라우드 수업
+- 개인 프로젝트
+    - [디스코드 챗봇 개발](https://github.com/yohanii/discordchatbot)
+
+### **Java Spring 스터디**
+
+24.08 ~
+
+- [Github](https://github.com/Japring-Study/spring-learning-test/pulls?q=is%3Apr+yohan+is%3Aclosed)
+- [spring-learning-test](https://github.com/cho-log/spring-learning-test)의 과제들을 주 2~3개 푸는 식으로 진행 및 서로 코드 리뷰
+- 매주 1번 발표 세미나에서 관련 공부 내용 발표
+- 기록 : [Japring-Study 1~12](https://velog.io/@yohanii/Japring-Study-1.-spring-mvc-1-과제-구현)
 
 ---
 
